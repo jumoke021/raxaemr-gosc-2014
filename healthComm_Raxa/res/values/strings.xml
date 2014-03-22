@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">healthComm_Raxa</string>
+    <string name="action_settings">Settings</string>
+    <string name="transferfiles">Transfer Files</string>
+    <string name="select_files">Select File</string>
+    
+
+</resources>
